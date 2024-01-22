@@ -1,5 +1,4 @@
 import "./Footer.css";
-import "./Policy.css";
 
 const Footer = () => {
   return (
